@@ -1,9 +1,7 @@
 .hi
 hlo
-<<<<<<< HEAD
 5
 =======
 3
 4
->>>>>>> ab694d103c16379ef23c61b99bdc5e0079dafe55
 priyanka
